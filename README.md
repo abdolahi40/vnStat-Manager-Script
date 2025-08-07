@@ -2,7 +2,7 @@
 
 A professional and user-friendly **terminal menu script** for managing and monitoring network bandwidth using **vnStat 2.12** on Debian/Ubuntu systems.
 
-<img width="414" height="519" alt="image" src="https://github.com/user-attachments/assets/9ec561d8-2cbc-4af9-bc60-315e360771c3" />
+<img width="414" height="519" alt="image" src="https://github.com/user-attachments/assets/82e2e370-dd69-4817-839a-2dc3138fefad" />
 
 ---
 
