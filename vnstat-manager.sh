@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 
 ### vnStat 2.12 Terminal Menu Script by ChatGPT (English, Professional with Self-Install Option)
 
@@ -10,7 +10,7 @@ CYAN='\033[0;36m'
 MAGENTA='\033[0;35m'
 WHITE='\033[1;37m'
 NC='\033[0m' # No Color
-
+ 
 SCRIPT_URL="https://raw.githubusercontent.com/abdolahi40/vnStat-Manager-Script/master/vnstat-manager.sh"
 INSTALL_PATH="/usr/local/bin/vnstatscript"
 
