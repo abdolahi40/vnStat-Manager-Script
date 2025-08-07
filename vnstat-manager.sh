@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 ### vnStat 2.12 Terminal Menu Script by ChatGPT (English, Professional with Self-Install Option)
 
