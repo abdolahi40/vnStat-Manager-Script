@@ -4,6 +4,8 @@ A professional and user-friendly **terminal menu script** for managing and monit
 
 <img width="414" height="519" alt="image" src="https://github.com/user-attachments/assets/82e2e370-dd69-4817-839a-2dc3138fefad" />
 
+<img width="554" height="249" alt="image" src="https://github.com/user-attachments/assets/f3e80763-2d27-45da-a581-3f66f688d321" />
+
 ---
 
 ## Features
