@@ -83,7 +83,10 @@ Troubleshooting
 
     For real-time monitoring, press Ctrl+C to exit live view.
 
+
 License
-This script is open source and free to use under the MIT License.
+
+    This script is open source and free to use under the MIT License.
+
 
 vnStat Manager Script!
